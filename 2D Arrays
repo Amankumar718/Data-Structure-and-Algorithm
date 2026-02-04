@@ -88,6 +88,8 @@ class Solution {
 
 <<<<<<<-------------To write code of Diagonal Sum of the element in the given array------------>>>>>>>
 
+The time complexity of Diagonal sum is O(n)
+
 public class Matrix{
     public static int DiagonalSum(int matrix[][]){
         int sum = 0;
