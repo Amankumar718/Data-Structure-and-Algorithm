@@ -1,0 +1,9 @@
+A String is a sequence of characters and String are IMMUTABLE.
+
+<<<<<------Basic Structure of String------->>>>>>>>>
+public class Strings {
+  public static void main(String args[]){
+     char  arr[] = {'a','b','c'};
+     String str = "abcd";
+}
+}
